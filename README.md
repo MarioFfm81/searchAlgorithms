@@ -1,2 +1,2 @@
-# explore-exploit-dilemma
-Side-by-side comparison of three approaches to solve the explore-exploit-dilemma
+# Search Algorithm visual comparison
+Compare Depth-First-Search, Breadth-First-Search and A*
